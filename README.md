@@ -1,6 +1,8 @@
 # WARNING
 This project is currently on development and You may not use this in another public project, It is closed source
 
+You may not use this in a commercial project.
+
 # Horizon Web Browser
 Horizon is a Web Browser created in Visual Studio 2019.
 
