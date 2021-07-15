@@ -8,4 +8,4 @@ Written in C#
 
 # How to execute Horizon
 
-Go to bin inside of the Horizon's folder to find the executable file.
+Go to bin and then debug inside of the Horizon's folder to find the executable file.
